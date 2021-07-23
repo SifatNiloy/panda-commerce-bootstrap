@@ -61,3 +61,18 @@ footer{
     text-align: center;
     
 }
+@media only screen and (max-width:576px) {
+    .container{
+        margin-bottom: 50px;
+    }
+    
+    .price-and-button{
+        text-align: center;
+    }
+    .carousel img{
+        margin-top: 40px;
+    }
+    .mid{
+        text-align: center;
+    }
+}
